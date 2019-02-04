@@ -13,6 +13,4 @@ Categorias:
   <li>Memory Game</li>
   <li>Table Game</li>
   <li>Video Game</li>
-</ul
-
-
+</ul>
