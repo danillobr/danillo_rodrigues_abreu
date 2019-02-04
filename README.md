@@ -1,1 +1,1 @@
-# Repositório dedicado a a disciplina P2/LP2
+# Repositório dedicado a disciplina P2/LP2
