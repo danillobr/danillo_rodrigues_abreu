@@ -1,4 +1,4 @@
-<div style="text-align:center"> # Projeto em Spring Boot </div>
+# Projeto em Spring Boot
 <h3>
     O projeto apresenta uma solução para um sistema no qual é necessário categorizar, separar e armazena em um banco de dados informações referentes a jogos. O projeto categoriza 7 tipos de Jogos e define como deve ser feito o armazenamento dos seus dados.
 </h3>
