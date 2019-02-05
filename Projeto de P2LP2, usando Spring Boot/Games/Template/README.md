@@ -14,7 +14,7 @@ Categorias:
   <li>Video Game</li>
 </ul>
 
+<h3>Para ium melhor entendimento segue o Diagrama de Classes do Projeto: </h3>
 <p align="center">
   <img src="diagrama.png" width="350" title="hover text">
-  <img src="diagrama.png" width="350" alt="accessibility text">
 </p>
