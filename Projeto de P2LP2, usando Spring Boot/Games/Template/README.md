@@ -13,3 +13,6 @@ Categorias:
   <li>Table Game</li>
   <li>Video Game</li>
 </ul>
+
+<h3>Diagrama de Classes do Projeto: </h3>
+![Screenshot](Diagrama do projeto com spring boot.png)
