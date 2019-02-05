@@ -16,5 +16,5 @@ Categorias:
 
 <h3>Para um melhor entendimento segue o Diagrama de Classes do Projeto: </h3>
 <p align="center">
-  <img src="diagrama.png" width="100%" title="hover text">
+  <img src="diagrama.png" width="60%" title="hover text">
 </p>
